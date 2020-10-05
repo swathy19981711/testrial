@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt-get update
+suo apt-get -y install apache2
+sudo rm /var/www/html/index.html
